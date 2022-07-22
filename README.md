@@ -14,4 +14,4 @@ Macrophage-cluster-R-script.R<br>
 <br>
 
 ##### Please note that the following data is to emphasize the reproducibility of our study, not R teaching materials. 
-#### For questions, please contact <a href="http://humphreyslab.com](https://site-form-af.netlify.app/">Myblog</a>. Follow me on Twitter <a href="https://twitter.com/darkmum2">@酩酊</a> for more updates!
+#### For questions, please contact <a href="https://site-form-af.netlify.app/">Myblog</a>. Follow me on Twitter <a href="https://twitter.com/darkmum2">@酩酊</a> for more updates!

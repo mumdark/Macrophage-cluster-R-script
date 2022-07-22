@@ -1,6 +1,6 @@
 # Macrophage-cluster-R-script
 This repository documented the scripts to generate the data for our manuscript entitled ***Gene set variant analysis reveals the impact of macrophage functional response on tumor heterogeneity and drug therapy in hepatocellular carcinoma***. <link> <br>
-All original data are stored in the R file of "Original data.RData", and can also be downloaded from the original data link corresponding to the original text. <br>
+All original data are stored in the R file of "Original data.RData", and are also available from the corresponding link in the manuscript. <br>
 ##### If you have any questions, you can consult the author of this project through the following email: ningyan1212@gmail.com
 
 ### Descriptions

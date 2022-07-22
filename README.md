@@ -5,7 +5,7 @@ All original data are stored in the R file of "Original data.RData", and are als
 
 ### Descriptions
 
-#### Original Data for this research<br>
+#### Original Data for this research:<br>
 Original data.RData<br>
 
 #### Scripts for GSVA and NMF cluster:<br>

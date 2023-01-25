@@ -10,6 +10,8 @@ All original data are stored in the R file of "Original data.RData" as following
 
 #### Scripts for GSVA and NMF cluster:<br>
 <a href="https://github.com/mumdark/Macrophage-cluster-R-script/blob/main/Macrophage-cluster-R-script.R">Macrophage-cluster-R-script.R</a><br>
+
+#### Quickly use this model:<br>
 <a href="http://117.62.203.72:3838/MNMF/">Bioinformatics tool</a><br>
 
 

@@ -1,5 +1,5 @@
 # Macrophage-cluster-R-script
-This repository documented the data and scripts to macrophage functional gene set classification for our manuscript entitled ***Gene set variant analysis reveals the impact of macrophage functional response on tumor heterogeneity and drug therapy in hepatocellular carcinoma***. <link> <br><br>
+This repository documented the data and scripts to macrophage functional gene set classification for our manuscript entitled ***Development and validation of a hepatocellular carcinoma classifier based on macrophage-related gene set for rapid evaluation of patient response types and prognosis***. <link> <br><br>
 All original data are stored in the R file of "Original data.RData" as following: <a href="https://www.jianguoyun.com/p/DTzGs5cQhufkChjH58wEIAA">Original data</a>, and are also available from the corresponding link in the manuscript. <br>
 ##### If you have any questions, you can consult the author of this project through the following email: ningyan1212@gmail.com<br><br><br>
 
